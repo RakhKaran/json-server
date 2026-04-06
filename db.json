@@ -3,6 +3,7 @@
   "registeredStudents": [],
   "notEligibleStudents": [],
   "documents": [],
+  "orders": [],
   "loanEnquiries": [
     {
       "id": "be96",
