@@ -1,0 +1,42 @@
+{
+  "studentEnquiries": [],
+  "registeredStudents": [],
+  "notEligibleStudents": [],
+  "documents": [],
+  "loanEnquiries": [
+    {
+      "id": "be96",
+      "firstname": "Karan",
+      "middlename": "Arun",
+      "lastname": "Rakh",
+      "aadhar": "785496458545",
+      "pan": "FNSPR3410k",
+      "phone": "9858964565",
+      "email": "karanrakh19@gmail.com",
+      "address": "karanrakh19@gmail.com",
+      "employmentType": "salaried",
+      "salary": 51000,
+      "loanPurpose": "car",
+      "loanAmount": 500000,
+      "tenure": 60,
+      "notes": "I want to purchase car"
+    },
+    {
+      "id": "a491",
+      "firstname": "Karan",
+      "middlename": "Arun",
+      "lastname": "Rakh",
+      "aadhar": "785496458545",
+      "pan": "FNSPR3410k",
+      "phone": "9858964565",
+      "email": "karanrakh19@gmail.com",
+      "address": "karanrakh19@gmail.com",
+      "employmentType": "salaried",
+      "salary": 51000,
+      "loanPurpose": "car",
+      "loanAmount": 500000,
+      "tenure": 60,
+      "notes": "I want to purchase new Car"
+    }
+  ]
+}
