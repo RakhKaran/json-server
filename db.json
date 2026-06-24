@@ -39,5 +39,177 @@
       "tenure": 60,
       "notes": "I want to purchase new Car"
     }
+  ],
+  "corporateLoanEnquiries": [],
+  "companyRegistry": [
+    {
+      "id": "cin001",
+      "cin": "U72200MH2015PTC12345",
+      "companyName": "Acme Technologies Private Limited",
+      "entityType": "pvt_ltd",
+      "pan": "AABCA1234C",
+      "gstin": "27AABCU9603R1ZX",
+      "registeredAddress": "123, Business Park, Andheri East, Mumbai - 400069",
+      "dateOfIncorporation": "2015-06-10",
+      "status": "Active",
+      "industry": "IT / Software Services"
+    },
+    {
+      "id": "cin002",
+      "cin": "L17110MH1973PLC019786",
+      "companyName": "Reliance Industries Limited",
+      "entityType": "pub_ltd",
+      "pan": "AAACR5055K",
+      "gstin": "27AAACR5055K1ZV",
+      "registeredAddress": "3rd Floor, Maker Chambers IV, 222, Nariman Point, Mumbai - 400021",
+      "dateOfIncorporation": "1973-05-08",
+      "status": "Active",
+      "industry": "Manufacturing"
+    },
+    {
+      "id": "cin003",
+      "cin": "U74999MH2020PTC345678",
+      "companyName": "Bluestar Logistics LLP",
+      "entityType": "llp",
+      "pan": "AABCB5678D",
+      "gstin": "27AABCB5678D1Z3",
+      "registeredAddress": "45, Patel Nagar, Nagpur - 440013",
+      "dateOfIncorporation": "2020-03-15",
+      "status": "Active",
+      "industry": "Logistics / Transport"
+    },
+    {
+      "id": "cin004",
+      "cin": "U45200DL2018PTC331234",
+      "companyName": "Skyline Construction Pvt Ltd",
+      "entityType": "pvt_ltd",
+      "pan": "AADCS1234E",
+      "gstin": "07AADCS1234E1ZP",
+      "registeredAddress": "Plot 22, Sector 5, Dwarka, New Delhi - 110075",
+      "dateOfIncorporation": "2018-09-01",
+      "status": "Active",
+      "industry": "Construction / Real Estate"
+    },
+    {
+      "id": "cin005",
+      "cin": "U15400GJ2010PTC123456",
+      "companyName": "Gujarat Agro Foods Pvt Ltd",
+      "entityType": "pvt_ltd",
+      "pan": "AABCG4321F",
+      "gstin": "24AABCG4321F1ZQ",
+      "registeredAddress": "Survey No. 78, GIDC Industrial Area, Anand - 388001",
+      "dateOfIncorporation": "2010-11-20",
+      "status": "Inactive",
+      "industry": "Agriculture / Agri-business"
+    }
+  ],
+  "gstRegistry": [
+    {
+      "id": "gst001",
+      "gstin": "27AABCU9603R1ZX",
+      "legalName": "Acme Technologies Private Limited",
+      "tradeName": "Acme Technologies",
+      "pan": "AABCA1234C",
+      "cin": "U72200MH2015PTC12345",
+      "stateCode": "27",
+      "state": "Maharashtra",
+      "registrationDate": "2015-07-15",
+      "status": "Active",
+      "taxpayerType": "Regular"
+    },
+    {
+      "id": "gst002",
+      "gstin": "27AAACR5055K1ZV",
+      "legalName": "Reliance Industries Limited",
+      "tradeName": "Reliance Industries",
+      "pan": "AAACR5055K",
+      "cin": "L17110MH1973PLC019786",
+      "stateCode": "27",
+      "state": "Maharashtra",
+      "registrationDate": "2017-07-01",
+      "status": "Active",
+      "taxpayerType": "Regular"
+    },
+    {
+      "id": "gst003",
+      "gstin": "27AABCB5678D1Z3",
+      "legalName": "Bluestar Logistics LLP",
+      "tradeName": "Bluestar Logistics",
+      "pan": "AABCB5678D",
+      "cin": "U74999MH2020PTC345678",
+      "stateCode": "27",
+      "state": "Maharashtra",
+      "registrationDate": "2020-04-01",
+      "status": "Active",
+      "taxpayerType": "Regular"
+    },
+    {
+      "id": "gst004",
+      "gstin": "07AADCS1234E1ZP",
+      "legalName": "Skyline Construction Pvt Ltd",
+      "tradeName": "Skyline Construction",
+      "pan": "AADCS1234E",
+      "cin": "U45200DL2018PTC331234",
+      "stateCode": "07",
+      "state": "Delhi",
+      "registrationDate": "2018-10-01",
+      "status": "Active",
+      "taxpayerType": "Regular"
+    },
+    {
+      "id": "gst005",
+      "gstin": "24AABCG4321F1ZQ",
+      "legalName": "Gujarat Agro Foods Pvt Ltd",
+      "tradeName": "Gujarat Agro",
+      "pan": "AABCG4321F",
+      "cin": "U15400GJ2010PTC123456",
+      "stateCode": "24",
+      "state": "Gujarat",
+      "registrationDate": "2011-03-01",
+      "status": "Suspended",
+      "taxpayerType": "Regular"
+    }
+  ],
+  "panRegistry": [
+    {
+      "id": "pan001",
+      "pan": "AABCA1234C",
+      "name": "Acme Technologies Private Limited",
+      "type": "Company",
+      "status": "Active",
+      "cin": "U72200MH2015PTC12345"
+    },
+    {
+      "id": "pan002",
+      "pan": "AAACR5055K",
+      "name": "Reliance Industries Limited",
+      "type": "Company",
+      "status": "Active",
+      "cin": "L17110MH1973PLC019786"
+    },
+    {
+      "id": "pan003",
+      "pan": "AABCB5678D",
+      "name": "Bluestar Logistics LLP",
+      "type": "LLP",
+      "status": "Active",
+      "cin": "U74999MH2020PTC345678"
+    },
+    {
+      "id": "pan004",
+      "pan": "AADCS1234E",
+      "name": "Skyline Construction Pvt Ltd",
+      "type": "Company",
+      "status": "Active",
+      "cin": "U45200DL2018PTC331234"
+    },
+    {
+      "id": "pan005",
+      "pan": "AABCG4321F",
+      "name": "Gujarat Agro Foods Pvt Ltd",
+      "type": "Company",
+      "status": "Inactive",
+      "cin": "U15400GJ2010PTC123456"
+    }
   ]
 }
