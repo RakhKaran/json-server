@@ -39,5 +39,21 @@
       "tenure": 60,
       "notes": "I want to purchase new Car"
     }
+  ],
+  "corporateLoanEnquiries": [
+    {
+      "id": "ENQ-20240001",
+      "companyName": "Acme Technologies Private Limited",
+      "cin": "U72200MH2015PTC12345",
+      "gstin": "27AABCU9603R1ZX",
+      "pan": "AABCA1234C",
+      "loanAmount": 5000000,
+      "loanPurpose": "Working Capital",
+      "authorisedSignatory": "Karan Rakh",
+      "email": "kolheroshan508@gmail.com",
+      "status": "pending_documents",
+      "documentsUploaded": false,
+      "createdAt": "2026-06-24T10:00:00.000Z"
+    }
   ]
 }

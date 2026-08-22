@@ -40,7 +40,41 @@
       "notes": "I want to purchase new Car"
     }
   ],
-  "corporateLoanEnquiries": [],
+  "corporateLoanEnquiries": [
+    {
+      "id": "ENQ-20240001",
+      "companyName": "Acme Technologies Private Limited",
+      "cin": "U72200MH2015PTC12345",
+      "gstin": "27AABCU9603R1ZX",
+      "pan": "AABCA1234C",
+      "loanAmount": 5000000,
+      "loanPurpose": "Working Capital",
+      "authorisedSignatory": "Karan Rakh",
+      "email": "kolheroshan508@gmail.com",
+      "status": "pending_documents",
+      "documentsUploaded": false,
+      "createdAt": "2026-06-24T10:00:00.000Z"
+    },
+    {
+      "id": "c245",
+      "companyName": "Skyline Construction Pvt Ltd",
+      "entityType": "pvt_ltd",
+      "cin": "U45200DL2018PTC331234",
+      "gstin": "27AABCU9603R1ZX",
+      "companyPan": "AADCS1234E",
+      "industry": "construction",
+      "operatingCity": "New Delhi",
+      "contactName": "Karan Rakh",
+      "contactEmail": "karanrakh19@gmail.com",
+      "contactPhone": "8888644378",
+      "annualTurnover": 120000000,
+      "monthlyRevenue": 10000000,
+      "loanType": "term_loan",
+      "loanAmount": 30000000,
+      "tenure": 60,
+      "status": "pending_verification"
+    }
+  ],
   "companyRegistry": [
     {
       "id": "cin001",
